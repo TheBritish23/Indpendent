@@ -12,3 +12,7 @@ img {
   width: 20%;
   float: center;
 }
+
+.margin-left {
+  margin-left: 10px
+}
